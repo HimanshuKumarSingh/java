@@ -1,5 +1,6 @@
 package com.marlabs.stream;
 
+//constructor--------------------
 public class Person {
 	 String name;
 	    int age;
