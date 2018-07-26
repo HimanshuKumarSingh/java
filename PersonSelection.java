@@ -9,10 +9,10 @@ public class PersonSelection {
          
 		List<Person> persons =
 			    Arrays.asList(
-			        new Person("subho", 18),
-			        new Person("tomo", 23),
+			        new Person("subho", 23),
+			        new Person("tomo", 24),
 			        new Person("hemu", 23),
-			        new Person("jaya", 12));
+			        new Person("jaya", 24));
 		List<Person> filtered =
 			    persons
 			        .stream()
